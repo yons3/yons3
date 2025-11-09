@@ -11,8 +11,8 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
+        self.name = "Yons_AL_srory"
+        self.role = "Network Engineer"
         self.language_spoken = ["zh_CN", "en_US"]
 
     def say_hi(self):
@@ -61,9 +61,20 @@ me.say_hi()
 **Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
+![Secure Flask](https://img.shields.io/badge/Backend-Secure_Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
+![Web App Security](https://img.shields.io/badge/Security-Web_App_Security-informational?style=flat&logo=owasp&logoColor=white&color=6aa6f8)
+![XSS Protection](https://img.shields.io/badge/Security-XSS_Protection-informational?style=flat&logo=owasp&logoColor=white&color=6aa6f8)
+![CSRF Protection](https://img.shields.io/badge/Security-CSRF_Protection-informational?style=flat&logo=owasp&logoColor=white&color=6aa6f8)
+![Cookies HttpOnly/SameSite](https://img.shields.io/badge/Cookies-HttpOnly%2FSameSite-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
+![Auth: JWT](https://img.shields.io/badge/Auth-JWT-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=6aa6f8)
+![Secure REST API](https://img.shields.io/badge/API-Secure_REST-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
+![AI Basics](https://img.shields.io/badge/AI-Basics-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
 
 
 **Tools and Services:**
