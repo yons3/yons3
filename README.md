@@ -46,13 +46,11 @@ me.say_hi()
 ![Azure (Public Cloud)](https://img.shields.io/badge/Cloud-Azure_(Public)-informational?style=flat&logo=microsoft-azure&logoColor=white&color=6aa6f8)
 ![CloudSim](https://img.shields.io/badge/Sim-CloudSim-informational?style=flat&color=6aa6f8)
 ![Hosting](https://img.shields.io/badge/Web-Hosting-informational?style=flat&logo=google-chrome&logoColor=white&color=6aa6f8)
-!--------------------------------
 ![AWS Certified](https://img.shields.io/badge/AWS_Certified-SAA_%7C_SAP_%7C_Security_Specialty-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![AWS SAA](https://img.shields.io/badge/AWS_Cert-Solutions_Architect_Associate_(SAA)-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![AWS SAA](https://img.shields.io/badge/AWS_Cert-Solutions_Architect_Associate_(SAA)-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8) ![AWS SAP](https://img.shields.io/badge/AWS_Cert-Solutions_Architect_Professional_(SAP)-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8) ![AWS Security Specialty](https://img.shields.io/badge/AWS_Cert-Security_Specialty-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 
-![AWS SAP](https://img.shields.io/badge/AWS_Cert-Solutions_Architect_Professional_(SAP)-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+**Network Services:**
 
-![AWS Security Specialty](https://img.shields.io/badge/AWS_Cert-Security_Specialty-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 
 **Programming Languages:**
 
@@ -75,8 +73,7 @@ me.say_hi()
 
 **Tools and Services:**
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
 
 <!-- ## &#x1f4c8; GitHub Stats
 
@@ -90,7 +87,6 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 
