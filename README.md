@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -25,9 +25,9 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+- Personal website and blog: 
+- Notes of AWS Solution Architecture - Associate: 
+- [WIP] LeetCode Solutions & Notes: 
 
 ### 📔 Latest Blog posts
 
@@ -43,20 +43,16 @@ me.say_hi()
 
 **Cloud Services:**
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![Bedrock](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![SageMaker](https://img.shields.io/badge/ML-SageMaker-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
-![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
-![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
-![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
-![SNS](https://img.shields.io/badge/Pub/Sub-SNS-informational?style=flat&logo=amazon-sns&logoColor=white&color=6aa6f8)
-![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
-![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
-![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=6aa6f8)
-![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
-![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
+![Azure (Public Cloud)](https://img.shields.io/badge/Cloud-Azure_(Public)-informational?style=flat&logo=microsoft-azure&logoColor=white&color=6aa6f8)
+![CloudSim](https://img.shields.io/badge/Sim-CloudSim-informational?style=flat&color=6aa6f8)
+![Hosting](https://img.shields.io/badge/Web-Hosting-informational?style=flat&logo=google-chrome&logoColor=white&color=6aa6f8)
+!--------------------------------
+![AWS Certified](https://img.shields.io/badge/AWS_Certified-SAA_%7C_SAP_%7C_Security_Specialty-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![AWS SAA](https://img.shields.io/badge/AWS_Cert-Solutions_Architect_Associate_(SAA)-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+
+![AWS SAP](https://img.shields.io/badge/AWS_Cert-Solutions_Architect_Professional_(SAP)-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+
+![AWS Security Specialty](https://img.shields.io/badge/AWS_Cert-Security_Specialty-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 
 **Programming Languages:**
 
