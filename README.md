@@ -3,25 +3,14 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+[![Instagram Badge](https://img.shields.io/badge/-@your_instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/your_instagram)](https://instagram.com/your_instagram)
+[![Facebook Badge](https://img.shields.io/badge/-your.facebook.usr-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/your.facebook.usr)](https://facebook.com/your.facebook.usr)
+[![Twitter/X Badge](https://img.shields.io/badge/-@your_twitter-000000?style=flat&logo=x&logoColor=white&link=https://twitter.com/your_twitter)](https://twitter.com/your_twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@your--handle-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle/)
 
 
-class SoftwareEngineer:
 
-    def __init__(self):
-        self.name = "Yons_AL_srory"
-        self.role = "Network Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-```
+Thanks for dropping by, hope you find some of my work interesting.
 
 ## 📝 Blogs
 
@@ -88,7 +77,13 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a> -->
 
-## 🏆 GitHub Trophies
+
+### 🏆Portfolio
+
+> *pending...*
+
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+
 
 
 ## 🗂️ Highlight Projects
@@ -97,10 +92,16 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
+
+
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
-<!-- ## 👨‍💻 This week, I spent my time on:
+## 📞 Contact My:
+- 📞 **Phone:** +967772282375
+- ✉️ **Email:** your.email@example.com
+- ✈️ **Telegram:** https://t.me/your_telegram
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
