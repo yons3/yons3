@@ -47,9 +47,12 @@ me.say_hi()
 ![CloudSim](https://img.shields.io/badge/Sim-CloudSim-informational?style=flat&color=6aa6f8)
 ![Hosting](https://img.shields.io/badge/Web-Hosting-informational?style=flat&logo=google-chrome&logoColor=white&color=6aa6f8)
 ![AWS Certified](https://img.shields.io/badge/AWS_Certified-SAA_%7C_SAP_%7C_Security_Specialty-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![AWS SAA](https://img.shields.io/badge/AWS_Cert-Solutions_Architect_Associate_(SAA)-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8) ![AWS SAP](https://img.shields.io/badge/AWS_Cert-Solutions_Architect_Professional_(SAP)-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8) ![AWS Security Specialty](https://img.shields.io/badge/AWS_Cert-Security_Specialty-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 
 **Network Services:**
+
+![Cisco CCNA1](https://img.shields.io/badge/Cisco-CCNA1-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Cisco CCNA2](https://img.shields.io/badge/Cisco-CCNA2-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Cisco CCNA3](https://img.shields.io/badge/Cisco-CCNA3-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
 
 
 **Programming Languages:**
